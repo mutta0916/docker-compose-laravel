@@ -68,3 +68,9 @@ CGIの改良版。
 Add [id] to fillable property to allow mass assignment on [App\Models\Memo].
 ```
 [laravelでfillでセーブしようとしたらエラーが出たとき](https://qiita.com/yoshinyan/items/c2c7b0cb50c62ca02401)
+
+## REST APIの作成
+[Laravelで REST API を実装する](https://noumenon-th.net/programming/2020/02/12/laravel-api/)
+
+### 登録時の全件取得処理の参照にさせていただきました。
+[Laravel × Vue.js × axios で TODO リストを作るよ！](https://tonyo.design/posts/todo-list-with-laravel-vue-axios-no4/)
